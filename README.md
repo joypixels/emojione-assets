@@ -1,7 +1,5 @@
 # EmojiOne Assets
 
-
-
 This repository hosts all of the EmojiOne image assets which can be used for free to add emoji support to your projects. For more information and usage examples please see our main repository: 
 
 > [EmojiOne](https://github.com/Ranks/emojione)
@@ -17,3 +15,17 @@ This repository hosts all of the EmojiOne image assets which can be used for fre
 ```
 $ npm install emojione-assets --save
 ```
+
+## Usage
+
+You are welcome to use this artwork in your projects however you please as long as it is within the bounds of our license.
+
+
+## Contributing
+
+Please see: [CONTRIBUTING.md](https://github.com/Ranks/emojione-assets/blob/master/CONTRIBUTING.md)
+
+
+## License
+
+Please see: [LICENSE.md](https://github.com/Ranks/emojione-assets/blob/master/LICENSE.md)
