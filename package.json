@@ -1,0 +1,19 @@
+{
+  "name": "emojione-assets",
+  "version": "3.0.0",
+  "description": "EmojiOne Artwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranks/emojione-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranks/emojione-assets/issues"
+  },
+  "homepage": "https://github.com/Ranks/emojione-assets#readme"
+}
