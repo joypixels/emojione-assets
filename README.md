@@ -5,6 +5,7 @@ This repository hosts all of the EmojiOne image assets which can be used for fre
 > [EmojiOne](https://github.com/Ranks/emojione)
 > [![npm version](https://img.shields.io/npm/v/emojione.svg)](https://www.npmjs.com/package/emojione) [![npm downloads](https://img.shields.io/npm/dt/emojione.svg)](https://www.npmjs.com/package/emojione)
 
+
 ## Install
 
 #### npm
@@ -15,3 +16,17 @@ This repository hosts all of the EmojiOne image assets which can be used for fre
 ```
 $ npm install emojione-assets --save
 ```
+
+## Usage
+
+You are welcome to use this artwork in your projects however you please as long as it is within the bounds of our license.
+
+
+## Contributing
+
+Please see: [CONTRIBUTING.md](https://github.com/Ranks/emojione-assets/blob/master/CONTRIBUTING.md)
+
+
+## License
+
+Please see: [LICENSE.md](https://github.com/Ranks/emojione-assets/blob/master/LICENSE.md)
