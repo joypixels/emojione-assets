@@ -1,7 +1,17 @@
 {
   "name": "emojione-assets",
   "version": "3.0.0",
-  "description": "EmojiOne Artwork",
+  "description": "Emojis in png format brought to you by EmojiOne. EmojiOne is a complete set of emojis designed for the web.",
+  "keywords": [
+    "emojione",
+    "EmojiOne",
+    "emoji",
+    "emojis",
+    "emoticons",
+    "smileys",
+    "smilies",
+    "unicode"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +20,9 @@
     "type": "git",
     "url": "git+https://github.com/Ranks/emojione-assets.git"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/Ranks/emojione-assets/issues"
   },
-  "homepage": "https://github.com/Ranks/emojione-assets#readme"
+  "homepage": "https//www.emojione.com"
 }
