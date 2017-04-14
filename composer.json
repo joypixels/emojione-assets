@@ -1,5 +1,6 @@
 {
   "name": "emojione/assets",
+  "version": "3.0.0",
   "type": "library",
   "description": "Emojis in png format brought to you by EmojiOne. EmojiOne is a complete set of emojis designed for the web.",
   "keywords": [
