@@ -1,4 +1,4 @@
-## Free License
+### Free License
 
 Our brand-new, signature EmojiOne icons are still available to be used for free by mobile/web developers - with some limitations.
  
