@@ -7,10 +7,19 @@ This repository hosts all of the EmojiOne image assets which can be used to add 
 
 ## Install
 
+#### composer
+
+[![packagist version](https://img.shields.io/packagist/v/emojione/emojione-assets.svg)](https://packagist.org/packages/emojione/emojione-assets) 
+[![packagist downloads](https://img.shields.io/packagist/dt/emojione/emojione-assets.svg)](https://packagist.org/packages/emojione/emojione-assets)
+
+```
+$ composer require emojione/emojione-assets
+```
+
 #### npm
 
 [![npm version](https://img.shields.io/npm/v/emojion-assets.svg)](https://www.npmjs.com/package/emojione-assets) 
-[![npm version](https://img.shields.io/npm/dt/emojione-assets.svg)](https://www.npmjs.com/package/emojione-assets)
+[![npm downloads](https://img.shields.io/npm/dt/emojione-assets.svg)](https://www.npmjs.com/package/emojione-assets)
 
 ```
 $ npm install emojione-assets --save
