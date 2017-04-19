@@ -9,8 +9,8 @@ This repository hosts all of the EmojiOne image assets which can be used to add 
 
 #### composer
 
-[![packagist version](https://img.shields.io/packagist/v/emojione/emojione-assets.svg)](https://packagist.org/packages/emojione/emojione-assets) 
-[![packagist downloads](https://img.shields.io/packagist/dt/emojione/emojione-assets.svg)](https://packagist.org/packages/emojione/emojione-assets)
+[![packagist version](https://img.shields.io/packagist/v/emojione/assets.svg)](https://packagist.org/packages/emojione/assets) 
+[![packagist downloads](https://img.shields.io/packagist/dt/emojione/assets.svg)](https://packagist.org/packages/emojione/assets)
 
 ```
 $ composer require emojione/emojione-assets
