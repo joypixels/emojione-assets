@@ -13,7 +13,7 @@ This repository hosts all of the EmojiOne image assets which can be used to add 
 [![packagist downloads](https://img.shields.io/packagist/dt/emojione/assets.svg)](https://packagist.org/packages/emojione/assets)
 
 ```
-$ composer require emojione/emojione-assets
+$ composer require emojione/assets
 ```
 
 #### npm
