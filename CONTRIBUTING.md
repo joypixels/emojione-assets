@@ -12,4 +12,4 @@ We know that we will not be be to please everybody, but we welcome your feedback
 
 ### Issues
 
-If there are visual errors or misrepresentations please view our [Github issues](https://github.com/Ranks/emojione-assets/issues) and see if the issue has already been raised. If not, feel create to create a new issue to describe the problem.
+If there are visual errors or misrepresentations please view our [Github issues](https://github.com/emojione/emojione-assets/issues) and see if the issue has already been raised. If not, feel create to create a new issue to describe the problem.
