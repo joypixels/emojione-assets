@@ -18,7 +18,7 @@ $ composer require emojione/assets
 
 #### npm
 
-[![npm version](https://img.shields.io/npm/v/emojion-assets.svg)](https://www.npmjs.com/package/emojione-assets) 
+[![npm version](https://img.shields.io/npm/v/emojione-assets.svg)](https://www.npmjs.com/package/emojione-assets) 
 [![npm downloads](https://img.shields.io/npm/dt/emojione-assets.svg)](https://www.npmjs.com/package/emojione-assets)
 
 ```
