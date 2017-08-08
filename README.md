@@ -1,6 +1,6 @@
 # EmojiOne Assets
 
-This repository hosts all of the EmojiOne image assets which can be used to add emoji support to your projects. For more information and usage examples please see our main repository: 
+This repository hosts all of the EmojiOne image assets & corresponding font files (thanks @maximbaz) which can be used to add emoji support to your projects. For more information and usage examples please see our main repository: 
 
 > [EmojiOne](https://github.com/emojione/emojione)
 > [![npm version](https://img.shields.io/npm/v/emojione.svg)](https://www.npmjs.com/package/emojione) [![npm downloads](https://img.shields.io/npm/dt/emojione.svg)](https://www.npmjs.com/package/emojione)
