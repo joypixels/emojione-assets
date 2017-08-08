@@ -14,8 +14,7 @@
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-people {
         background-image: url(emojione-sprite-24-people@2x.png);
@@ -1121,8 +1120,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-nature {
         background-image: url(emojione-sprite-24-nature@2x.png);
@@ -1643,8 +1641,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-food {
         background-image: url(emojione-sprite-24-food@2x.png);
@@ -1967,8 +1964,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-activity {
         background-image: url(emojione-sprite-24-activity@2x.png);
@@ -2309,8 +2305,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-travel {
         background-image: url(emojione-sprite-24-travel@2x.png);
@@ -2696,8 +2691,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-objects {
         background-image: url(emojione-sprite-24-objects@2x.png);
@@ -3245,8 +3239,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-symbols {
         background-image: url(emojione-sprite-24-symbols@2x.png);
@@ -4127,8 +4120,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-flags {
         background-image: url(emojione-sprite-24-flags@2x.png);
@@ -4955,8 +4947,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-regional {
         background-image: url(emojione-sprite-24-regional@2x.png);
@@ -5060,8 +5051,7 @@ only screen and (min-device-pixel-ratio: 2)
     background-repeat: no-repeat;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min-device-pixel-ratio: 2)
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (min-resolution: 2dppx)
 {
     .emojione-24-diversity {
         background-image: url(emojione-sprite-24-diversity@2x.png);
