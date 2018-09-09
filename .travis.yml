@@ -24,3 +24,4 @@ deploy:
   api_key: $GITHUB_OAUTH_TOKEN
   file:
     - "$FONTS_DIR/emojione-android.ttf"
+    - "$FONTS_DIR/emojione-android-alt.ttf"
