@@ -18,7 +18,7 @@
 {
     .emojione-24-people {
         background-image: url(emojione-sprite-24-people@2x.png);
-        background-size: 9824px 24px;
+        background-size: 9899px 24px;
     }
 }
 
@@ -1175,32 +1175,41 @@
 .emojione-24-people._1f9e6 {
     background-position: -9575px 0px;
 }
-.emojione-24-people._261d {
+.emojione-24-people._1f9f3 {
     background-position: -9600px 0px;
 }
-.emojione-24-people._2620 {
+.emojione-24-people._1f9f5 {
     background-position: -9625px 0px;
 }
-.emojione-24-people._2639 {
+.emojione-24-people._1f9f6 {
     background-position: -9650px 0px;
 }
-.emojione-24-people._263a {
+.emojione-24-people._261d {
     background-position: -9675px 0px;
 }
-.emojione-24-people._26d1 {
+.emojione-24-people._2620 {
     background-position: -9700px 0px;
 }
-.emojione-24-people._270a {
+.emojione-24-people._2639 {
     background-position: -9725px 0px;
 }
-.emojione-24-people._270b {
+.emojione-24-people._263a {
     background-position: -9750px 0px;
 }
-.emojione-24-people._270c {
+.emojione-24-people._26d1 {
     background-position: -9775px 0px;
 }
-.emojione-24-people._270d {
+.emojione-24-people._270a {
     background-position: -9800px 0px;
+}
+.emojione-24-people._270b {
+    background-position: -9825px 0px;
+}
+.emojione-24-people._270c {
+    background-position: -9850px 0px;
+}
+.emojione-24-people._270d {
+    background-position: -9875px 0px;
 }
 
 .emojione-24-nature {
@@ -1783,7 +1792,7 @@
 {
     .emojione-24-food {
         background-image: url(emojione-sprite-24-food@2x.png);
-        background-size: 2649px 24px;
+        background-size: 2674px 24px;
     }
 }
 
@@ -2094,17 +2103,20 @@
 .emojione-24-food._1f96f {
     background-position: -2525px 0px;
 }
-.emojione-24-food._1f9c0 {
+.emojione-24-food._1f9b4 {
     background-position: -2550px 0px;
 }
-.emojione-24-food._1f9c1 {
+.emojione-24-food._1f9c0 {
     background-position: -2575px 0px;
 }
-.emojione-24-food._1f9c2 {
+.emojione-24-food._1f9c1 {
     background-position: -2600px 0px;
 }
-.emojione-24-food._2615 {
+.emojione-24-food._1f9c2 {
     background-position: -2625px 0px;
+}
+.emojione-24-food._2615 {
+    background-position: -2650px 0px;
 }
 
 .emojione-24-activity {
@@ -2127,7 +2139,7 @@
 {
     .emojione-24-activity {
         background-image: url(emojione-sprite-24-activity@2x.png);
-        background-size: 2649px 24px;
+        background-size: 2699px 24px;
     }
 }
 
@@ -2426,29 +2438,35 @@
 .emojione-24-activity._1f9d8 {
     background-position: -2425px 0px;
 }
-.emojione-24-activity._26bd {
+.emojione-24-activity._1f9e9 {
     background-position: -2450px 0px;
 }
-.emojione-24-activity._26be {
+.emojione-24-activity._265f {
     background-position: -2475px 0px;
 }
-.emojione-24-activity._26f3 {
+.emojione-24-activity._26bd {
     background-position: -2500px 0px;
 }
-.emojione-24-activity._26f7 {
+.emojione-24-activity._26be {
     background-position: -2525px 0px;
 }
-.emojione-24-activity._26f8 {
+.emojione-24-activity._26f3 {
     background-position: -2550px 0px;
 }
-.emojione-24-activity._26f9-2640 {
+.emojione-24-activity._26f7 {
     background-position: -2575px 0px;
 }
-.emojione-24-activity._26f9-2642 {
+.emojione-24-activity._26f8 {
     background-position: -2600px 0px;
 }
-.emojione-24-activity._26f9 {
+.emojione-24-activity._26f9-2640 {
     background-position: -2625px 0px;
+}
+.emojione-24-activity._26f9-2642 {
+    background-position: -2650px 0px;
+}
+.emojione-24-activity._26f9 {
+    background-position: -2675px 0px;
 }
 
 .emojione-24-travel {
@@ -2866,7 +2884,7 @@
 {
     .emojione-24-objects {
         background-image: url(emojione-sprite-24-objects@2x.png);
-        background-size: 4949px 24px;
+        background-size: 4999px 24px;
     }
 }
 
@@ -3330,140 +3348,146 @@
 .emojione-24-objects._1f6e2 {
     background-position: -3800px 0px;
 }
-.emojione-24-objects._1f9e7 {
+.emojione-24-objects._1f9a0 {
     background-position: -3825px 0px;
 }
-.emojione-24-objects._1f9e9 {
+.emojione-24-objects._1f9e7 {
     background-position: -3850px 0px;
 }
-.emojione-24-objects._1f9ea {
+.emojione-24-objects._1f9e8 {
     background-position: -3875px 0px;
 }
-.emojione-24-objects._1f9eb {
+.emojione-24-objects._1f9e9 {
     background-position: -3900px 0px;
 }
-.emojione-24-objects._1f9ec {
+.emojione-24-objects._1f9ea {
     background-position: -3925px 0px;
 }
-.emojione-24-objects._1f9ed {
+.emojione-24-objects._1f9eb {
     background-position: -3950px 0px;
 }
-.emojione-24-objects._1f9ee {
+.emojione-24-objects._1f9ec {
     background-position: -3975px 0px;
 }
-.emojione-24-objects._1f9ef {
+.emojione-24-objects._1f9ed {
     background-position: -4000px 0px;
 }
-.emojione-24-objects._1f9f0 {
+.emojione-24-objects._1f9ee {
     background-position: -4025px 0px;
 }
-.emojione-24-objects._1f9f1 {
+.emojione-24-objects._1f9ef {
     background-position: -4050px 0px;
 }
-.emojione-24-objects._1f9f2 {
+.emojione-24-objects._1f9f0 {
     background-position: -4075px 0px;
 }
-.emojione-24-objects._1f9f4 {
+.emojione-24-objects._1f9f1 {
     background-position: -4100px 0px;
 }
-.emojione-24-objects._1f9f5 {
+.emojione-24-objects._1f9f2 {
     background-position: -4125px 0px;
 }
-.emojione-24-objects._1f9f6 {
+.emojione-24-objects._1f9f4 {
     background-position: -4150px 0px;
 }
-.emojione-24-objects._1f9f7 {
+.emojione-24-objects._1f9f5 {
     background-position: -4175px 0px;
 }
-.emojione-24-objects._1f9f8 {
+.emojione-24-objects._1f9f6 {
     background-position: -4200px 0px;
 }
-.emojione-24-objects._1f9f9 {
+.emojione-24-objects._1f9f7 {
     background-position: -4225px 0px;
 }
-.emojione-24-objects._1f9fa {
+.emojione-24-objects._1f9f8 {
     background-position: -4250px 0px;
 }
-.emojione-24-objects._1f9fb {
+.emojione-24-objects._1f9f9 {
     background-position: -4275px 0px;
 }
-.emojione-24-objects._1f9fc {
+.emojione-24-objects._1f9fa {
     background-position: -4300px 0px;
 }
-.emojione-24-objects._1f9fd {
+.emojione-24-objects._1f9fb {
     background-position: -4325px 0px;
 }
-.emojione-24-objects._1f9fe {
+.emojione-24-objects._1f9fc {
     background-position: -4350px 0px;
 }
-.emojione-24-objects._1f9ff {
+.emojione-24-objects._1f9fd {
     background-position: -4375px 0px;
 }
-.emojione-24-objects._231a {
+.emojione-24-objects._1f9fe {
     background-position: -4400px 0px;
 }
-.emojione-24-objects._231b {
+.emojione-24-objects._1f9ff {
     background-position: -4425px 0px;
 }
-.emojione-24-objects._2328 {
+.emojione-24-objects._231a {
     background-position: -4450px 0px;
 }
-.emojione-24-objects._23f0 {
+.emojione-24-objects._231b {
     background-position: -4475px 0px;
 }
-.emojione-24-objects._23f1 {
+.emojione-24-objects._2328 {
     background-position: -4500px 0px;
 }
-.emojione-24-objects._23f2 {
+.emojione-24-objects._23f0 {
     background-position: -4525px 0px;
 }
-.emojione-24-objects._23f3 {
+.emojione-24-objects._23f1 {
     background-position: -4550px 0px;
 }
-.emojione-24-objects._260e {
+.emojione-24-objects._23f2 {
     background-position: -4575px 0px;
 }
-.emojione-24-objects._265f {
+.emojione-24-objects._23f3 {
     background-position: -4600px 0px;
 }
-.emojione-24-objects._2692 {
+.emojione-24-objects._260e {
     background-position: -4625px 0px;
 }
-.emojione-24-objects._2694 {
+.emojione-24-objects._265f {
     background-position: -4650px 0px;
 }
-.emojione-24-objects._2696 {
+.emojione-24-objects._2692 {
     background-position: -4675px 0px;
 }
-.emojione-24-objects._2697 {
+.emojione-24-objects._2694 {
     background-position: -4700px 0px;
 }
-.emojione-24-objects._2699 {
+.emojione-24-objects._2696 {
     background-position: -4725px 0px;
 }
-.emojione-24-objects._26b0 {
+.emojione-24-objects._2697 {
     background-position: -4750px 0px;
 }
-.emojione-24-objects._26b1 {
+.emojione-24-objects._2699 {
     background-position: -4775px 0px;
 }
-.emojione-24-objects._26cf {
+.emojione-24-objects._26b0 {
     background-position: -4800px 0px;
 }
-.emojione-24-objects._26d3 {
+.emojione-24-objects._26b1 {
     background-position: -4825px 0px;
 }
-.emojione-24-objects._2702 {
+.emojione-24-objects._26cf {
     background-position: -4850px 0px;
 }
-.emojione-24-objects._2709 {
+.emojione-24-objects._26d3 {
     background-position: -4875px 0px;
 }
-.emojione-24-objects._270f {
+.emojione-24-objects._2702 {
     background-position: -4900px 0px;
 }
-.emojione-24-objects._2712 {
+.emojione-24-objects._2709 {
     background-position: -4925px 0px;
+}
+.emojione-24-objects._270f {
+    background-position: -4950px 0px;
+}
+.emojione-24-objects._2712 {
+    background-position: -4975px 0px;
 }
 
 .emojione-24-symbols {

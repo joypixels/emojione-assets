@@ -18,7 +18,7 @@
 {
     .emojione-40-people {
         background-image: url(emojione-sprite-40-people@2x.png);
-        background-size: 16112px 40px;
+        background-size: 16235px 40px;
     }
 }
 
@@ -1175,32 +1175,41 @@
 .emojione-40-people._1f9e6 {
     background-position: -15703px 0px;
 }
-.emojione-40-people._261d {
+.emojione-40-people._1f9f3 {
     background-position: -15744px 0px;
 }
-.emojione-40-people._2620 {
+.emojione-40-people._1f9f5 {
     background-position: -15785px 0px;
 }
-.emojione-40-people._2639 {
+.emojione-40-people._1f9f6 {
     background-position: -15826px 0px;
 }
-.emojione-40-people._263a {
+.emojione-40-people._261d {
     background-position: -15867px 0px;
 }
-.emojione-40-people._26d1 {
+.emojione-40-people._2620 {
     background-position: -15908px 0px;
 }
-.emojione-40-people._270a {
+.emojione-40-people._2639 {
     background-position: -15949px 0px;
 }
-.emojione-40-people._270b {
+.emojione-40-people._263a {
     background-position: -15990px 0px;
 }
-.emojione-40-people._270c {
+.emojione-40-people._26d1 {
     background-position: -16031px 0px;
 }
-.emojione-40-people._270d {
+.emojione-40-people._270a {
     background-position: -16072px 0px;
+}
+.emojione-40-people._270b {
+    background-position: -16113px 0px;
+}
+.emojione-40-people._270c {
+    background-position: -16154px 0px;
+}
+.emojione-40-people._270d {
+    background-position: -16195px 0px;
 }
 
 .emojione-40-nature {
@@ -1783,7 +1792,7 @@
 {
     .emojione-40-food {
         background-image: url(emojione-sprite-40-food@2x.png);
-        background-size: 4345px 40px;
+        background-size: 4386px 40px;
     }
 }
 
@@ -2094,17 +2103,20 @@
 .emojione-40-food._1f96f {
     background-position: -4141px 0px;
 }
-.emojione-40-food._1f9c0 {
+.emojione-40-food._1f9b4 {
     background-position: -4182px 0px;
 }
-.emojione-40-food._1f9c1 {
+.emojione-40-food._1f9c0 {
     background-position: -4223px 0px;
 }
-.emojione-40-food._1f9c2 {
+.emojione-40-food._1f9c1 {
     background-position: -4264px 0px;
 }
-.emojione-40-food._2615 {
+.emojione-40-food._1f9c2 {
     background-position: -4305px 0px;
+}
+.emojione-40-food._2615 {
+    background-position: -4346px 0px;
 }
 
 .emojione-40-activity {
@@ -2127,7 +2139,7 @@
 {
     .emojione-40-activity {
         background-image: url(emojione-sprite-40-activity@2x.png);
-        background-size: 4345px 40px;
+        background-size: 4427px 40px;
     }
 }
 
@@ -2426,29 +2438,35 @@
 .emojione-40-activity._1f9d8 {
     background-position: -3977px 0px;
 }
-.emojione-40-activity._26bd {
+.emojione-40-activity._1f9e9 {
     background-position: -4018px 0px;
 }
-.emojione-40-activity._26be {
+.emojione-40-activity._265f {
     background-position: -4059px 0px;
 }
-.emojione-40-activity._26f3 {
+.emojione-40-activity._26bd {
     background-position: -4100px 0px;
 }
-.emojione-40-activity._26f7 {
+.emojione-40-activity._26be {
     background-position: -4141px 0px;
 }
-.emojione-40-activity._26f8 {
+.emojione-40-activity._26f3 {
     background-position: -4182px 0px;
 }
-.emojione-40-activity._26f9-2640 {
+.emojione-40-activity._26f7 {
     background-position: -4223px 0px;
 }
-.emojione-40-activity._26f9-2642 {
+.emojione-40-activity._26f8 {
     background-position: -4264px 0px;
 }
-.emojione-40-activity._26f9 {
+.emojione-40-activity._26f9-2640 {
     background-position: -4305px 0px;
+}
+.emojione-40-activity._26f9-2642 {
+    background-position: -4346px 0px;
+}
+.emojione-40-activity._26f9 {
+    background-position: -4387px 0px;
 }
 
 .emojione-40-travel {
@@ -2866,7 +2884,7 @@
 {
     .emojione-40-objects {
         background-image: url(emojione-sprite-40-objects@2x.png);
-        background-size: 8117px 40px;
+        background-size: 8199px 40px;
     }
 }
 
@@ -3330,140 +3348,146 @@
 .emojione-40-objects._1f6e2 {
     background-position: -6232px 0px;
 }
-.emojione-40-objects._1f9e7 {
+.emojione-40-objects._1f9a0 {
     background-position: -6273px 0px;
 }
-.emojione-40-objects._1f9e9 {
+.emojione-40-objects._1f9e7 {
     background-position: -6314px 0px;
 }
-.emojione-40-objects._1f9ea {
+.emojione-40-objects._1f9e8 {
     background-position: -6355px 0px;
 }
-.emojione-40-objects._1f9eb {
+.emojione-40-objects._1f9e9 {
     background-position: -6396px 0px;
 }
-.emojione-40-objects._1f9ec {
+.emojione-40-objects._1f9ea {
     background-position: -6437px 0px;
 }
-.emojione-40-objects._1f9ed {
+.emojione-40-objects._1f9eb {
     background-position: -6478px 0px;
 }
-.emojione-40-objects._1f9ee {
+.emojione-40-objects._1f9ec {
     background-position: -6519px 0px;
 }
-.emojione-40-objects._1f9ef {
+.emojione-40-objects._1f9ed {
     background-position: -6560px 0px;
 }
-.emojione-40-objects._1f9f0 {
+.emojione-40-objects._1f9ee {
     background-position: -6601px 0px;
 }
-.emojione-40-objects._1f9f1 {
+.emojione-40-objects._1f9ef {
     background-position: -6642px 0px;
 }
-.emojione-40-objects._1f9f2 {
+.emojione-40-objects._1f9f0 {
     background-position: -6683px 0px;
 }
-.emojione-40-objects._1f9f4 {
+.emojione-40-objects._1f9f1 {
     background-position: -6724px 0px;
 }
-.emojione-40-objects._1f9f5 {
+.emojione-40-objects._1f9f2 {
     background-position: -6765px 0px;
 }
-.emojione-40-objects._1f9f6 {
+.emojione-40-objects._1f9f4 {
     background-position: -6806px 0px;
 }
-.emojione-40-objects._1f9f7 {
+.emojione-40-objects._1f9f5 {
     background-position: -6847px 0px;
 }
-.emojione-40-objects._1f9f8 {
+.emojione-40-objects._1f9f6 {
     background-position: -6888px 0px;
 }
-.emojione-40-objects._1f9f9 {
+.emojione-40-objects._1f9f7 {
     background-position: -6929px 0px;
 }
-.emojione-40-objects._1f9fa {
+.emojione-40-objects._1f9f8 {
     background-position: -6970px 0px;
 }
-.emojione-40-objects._1f9fb {
+.emojione-40-objects._1f9f9 {
     background-position: -7011px 0px;
 }
-.emojione-40-objects._1f9fc {
+.emojione-40-objects._1f9fa {
     background-position: -7052px 0px;
 }
-.emojione-40-objects._1f9fd {
+.emojione-40-objects._1f9fb {
     background-position: -7093px 0px;
 }
-.emojione-40-objects._1f9fe {
+.emojione-40-objects._1f9fc {
     background-position: -7134px 0px;
 }
-.emojione-40-objects._1f9ff {
+.emojione-40-objects._1f9fd {
     background-position: -7175px 0px;
 }
-.emojione-40-objects._231a {
+.emojione-40-objects._1f9fe {
     background-position: -7216px 0px;
 }
-.emojione-40-objects._231b {
+.emojione-40-objects._1f9ff {
     background-position: -7257px 0px;
 }
-.emojione-40-objects._2328 {
+.emojione-40-objects._231a {
     background-position: -7298px 0px;
 }
-.emojione-40-objects._23f0 {
+.emojione-40-objects._231b {
     background-position: -7339px 0px;
 }
-.emojione-40-objects._23f1 {
+.emojione-40-objects._2328 {
     background-position: -7380px 0px;
 }
-.emojione-40-objects._23f2 {
+.emojione-40-objects._23f0 {
     background-position: -7421px 0px;
 }
-.emojione-40-objects._23f3 {
+.emojione-40-objects._23f1 {
     background-position: -7462px 0px;
 }
-.emojione-40-objects._260e {
+.emojione-40-objects._23f2 {
     background-position: -7503px 0px;
 }
-.emojione-40-objects._265f {
+.emojione-40-objects._23f3 {
     background-position: -7544px 0px;
 }
-.emojione-40-objects._2692 {
+.emojione-40-objects._260e {
     background-position: -7585px 0px;
 }
-.emojione-40-objects._2694 {
+.emojione-40-objects._265f {
     background-position: -7626px 0px;
 }
-.emojione-40-objects._2696 {
+.emojione-40-objects._2692 {
     background-position: -7667px 0px;
 }
-.emojione-40-objects._2697 {
+.emojione-40-objects._2694 {
     background-position: -7708px 0px;
 }
-.emojione-40-objects._2699 {
+.emojione-40-objects._2696 {
     background-position: -7749px 0px;
 }
-.emojione-40-objects._26b0 {
+.emojione-40-objects._2697 {
     background-position: -7790px 0px;
 }
-.emojione-40-objects._26b1 {
+.emojione-40-objects._2699 {
     background-position: -7831px 0px;
 }
-.emojione-40-objects._26cf {
+.emojione-40-objects._26b0 {
     background-position: -7872px 0px;
 }
-.emojione-40-objects._26d3 {
+.emojione-40-objects._26b1 {
     background-position: -7913px 0px;
 }
-.emojione-40-objects._2702 {
+.emojione-40-objects._26cf {
     background-position: -7954px 0px;
 }
-.emojione-40-objects._2709 {
+.emojione-40-objects._26d3 {
     background-position: -7995px 0px;
 }
-.emojione-40-objects._270f {
+.emojione-40-objects._2702 {
     background-position: -8036px 0px;
 }
-.emojione-40-objects._2712 {
+.emojione-40-objects._2709 {
     background-position: -8077px 0px;
+}
+.emojione-40-objects._270f {
+    background-position: -8118px 0px;
+}
+.emojione-40-objects._2712 {
+    background-position: -8159px 0px;
 }
 
 .emojione-40-symbols {
