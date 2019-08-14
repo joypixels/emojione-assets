@@ -1,3 +1,6 @@
+# This repository is now maintained as JoyPixels/emoji-assets.
+You'll find the latest version of our resources at [emoji-assets](https://github.com/joypixels/emoji-assets).
+
 # EmojiOne Assets
 
 This repository hosts all of the EmojiOne image assets & corresponding font files (thanks @maximbaz) which can be used to add emoji support to your projects. For more information and usage examples please see our main repository: 
